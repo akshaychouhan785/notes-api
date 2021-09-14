@@ -1,2 +1,2 @@
 # notes-api
-A RESTful Api for storing notes created using django-rest-framework.
+A RESTful Api with CRUD operations for storing notes created using django-rest-framework.
